@@ -10,5 +10,7 @@ My Declaration When in the course of human events, it becomes necessary for One 
 
 more files - help, version files of tools used in the process of making
 
+[MD5SUMS](https://github.com/freedom-foundation/My_Declaration/blob/main/MD5SUMS) - checksums 
+
 My Declaration has priority to be archived in both [ASCII](https://github.com/freedom-foundation/ASCII-format-for-Network-Interchange) wordcounted and checksummed text and PDF/A-1 archive format for long term preservation then cryptographicly signed and attested, garunteed to be veritable to corresponding printed replica documents.
 
