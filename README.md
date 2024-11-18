@@ -1,5 +1,5 @@
 # My_Declaration
-My Declaration to be archived and converted to PDF/A-1 for Archive
+My Declaration When in the course of human events, it becomes necessary for One to dissolve the political bands which have connected Him with another, and to assume among the powers of the earth, the separate and equal station to which the Laws of Nature and of Nature’s God entitle Him, in order to appeal to the souls of mankind requires that He sh 
 
 <h1>Contents</h1>
 
