@@ -14,3 +14,10 @@ more files - help, version files of tools used in the process of making
 
 My Declaration has priority to be archived in both [ASCII](https://github.com/freedom-foundation/ASCII-format-for-Network-Interchange) wordcounted and checksummed text and PDF/A-1 archive format for long term preservation then cryptographicly signed and attested, garunteed to be veritable to corresponding printed replica documents.
 
+###### checksums
+6d924c54eb10efe7a162ddd166e6d5cc  My_Declaration.80.1320.8094.6d924c54eb10efe7a162ddd166e6d5cc.txt
+201cc1e31692281d8597eed259be8540  My_Declaration_(tabloid).201cc1e31692281d8597eed259be8540.pdf
+c1bc09e1ea6572e28e9ee62fa8010818  README.md
+eaa1454351de2d7eb29a8fe40bfb42c5  nano--help.txt
+584823b2cdc8258a9e51d5fcd5579e06  nano--wordcount.txt
+d41d8cd98f00b204e9800998ecf8427e  pdftotext--help.txt
