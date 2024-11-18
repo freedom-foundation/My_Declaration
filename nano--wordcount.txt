@@ -1,0 +1,5 @@
+The status line is the third line from the bottom and shows important messages.
+
+Shortcuts are written as follows: Meta-key sequences are notated with 'M-' and can be entered using either the Alt, Cmd, or Esc key, depending on your keyboard setup. The following keystrokes are available in the main editor window. :
+
+M-D     Count the number of lines, words, and characters
